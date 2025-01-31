@@ -1,0 +1,37 @@
+5 min read
+
+Shaped like a megaphone, the upcoming mission will map the entire sky in infrared light to answer big questions about the universe.
+
+Expected to launch no earlier than Thursday, Feb. 27, from Vandenberg Space Force Base in California, NASA’s SPHEREx space observatory will provide astronomers with a big-picture view of the cosmos like none before. Short for Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer, SPHEREx will map the entire celestial sky in 102 infrared colors, illuminating the origins of our universe, galaxies within it, and life’s key ingredients in our own galaxy. Here are six things to know about the mission.
+
+In the first billionth of a trillionth of a trillionth of a second after the big bang, the universe increased in size by a trillion-trillionfold. Called inflation, this nearly instantaneous event took place almost 14 billion years ago, and its effects can be found today in the large-scale distribution of matter in the universe. By mapping the distribution of more than 450 million galaxies,SPHERExwill help scientists improve our understanding of the physics behind this extreme cosmic event.
+
+Scientists have tried to estimate the total light output from all galaxies throughout cosmic history by observing individual galaxies and extrapolating to the trillions of galaxies in the universe. The SPHEREx space telescope will take a different approach and measure the total glow from all galaxies, including galaxies too small, too diffuse, or too distant for other telescopes to easily detect. Combining the measurement of this overall glow with other telescopes’ studies of individual galaxies will give scientists a more complete picture of all the major sources of light in the universe.
+
+Life as we know it wouldn’t exist without basic ingredients such as water and carbon dioxide. The SPHEREx observatory is designed to find these molecules frozen in interstellar clouds of gas and dust, where stars and planets form. The mission will pinpoint the location and abundance of these icy compounds in our galaxy, giving researchers a better sense of their availability in the raw materials for newly forming planets.
+
+Space telescopes like NASA’s Hubble and Webb have zoomed in on many corners of the universe to show us planets, stars, and galaxies in high resolution. But some questions — like how much light do all the galaxies in the universe collectively emit? — can be answered only by looking at the big picture. To that end, the SPHEREx observatory will provide maps that encompass the entire sky. Objects of scientific interest identified by SPHEREx can then be studied in more detail by targeted telescopes like Hubble and Webb.
+
+The SPHEREx observatory“sees” infrared light. Undetectable to the human eye, this range of wavelengths is ideal for studying stars and galaxies. Using a technique called spectroscopy, the telescope can split the light into its component colors (individual wavelengths), like a prism creates a rainbow from sunlight, in order to measure the distance to cosmic objects and learn about their composition. With SPHEREx’s spectroscopic map in hand, scientists will be able to detect evidence of chemical compounds, like water ice, in our galaxy. They’ll not only measure the total amount of light emitted by galaxies in our universe, but also discern how bright that total glow was at different points in cosmic history. And they’ll chart the 3D locations of hundreds of millions of galaxies to study how inflation influenced the large-scale structure of the universe today.
+
+The mission’s infrared telescope and detectors need to operate at around minus 350 degrees Fahrenheit (about minus 210 degrees Celsius). This is partly to prevent them from generating their own infrared glow, which might overwhelm the faint light from cosmic sources. To keep things cold while also simplifying the spacecraft’s design and operational needs, SPHEREx relies on an entirely passive cooling system — no electricity or coolants are used during normal operations. Key to making this feat possible are three cone-shaped photon shields that protect the telescope from the heat of Earth and the Sun, as well as a mirrored structure beneath the shields to direct heat from the instrument out into space. Those photon shields give the spacecraft its distinctive outline.
+
+SPHEREx is managed by NASA’s Jet Propulsion Laboratory for the agency’s Astrophysics Division within the Science Mission Directorate at NASA Headquarters in Washington. BAE Systems (formerly Ball Aerospace) built the telescope and the spacecraft bus. The science analysis of the SPHEREx data will be conducted by a team of scientists located at 10 institutions in the U.S., two in South Korea, and one in Taiwan. Data will be processed and archived atIPACat Caltech, which manages JPL for NASA. The mission principal investigator is based at Caltech with a joint JPL appointment. The SPHEREx dataset will be publicly available at the NASA/IPAC Infrared Science Archive.
+
+For more information about the SPHEREx mission visit:
+
+https://www.jpl.nasa.gov/missions/spherex
+
+Calla CofieldJet Propulsion Laboratory, Pasadena, Calif.626-808-2469calla.e.cofield@jpl.nasa.gov
+
+2025-011
+
+The subject of this NASA/ESA Hubble Space Telescope image is a supernova-hosting galaxy located about…
+
+Missions
+
+Humans in Space
+
+Climate Change
+
+Solar System
